@@ -1,14 +1,3 @@
-# The computer will pick either rock paper scissors, can randomize that with the machine
-# I will pick rock paper scissors
-# Conditions:
-# If I pick rock and they pick scissors, I win. If they pick paper, I lose. If they pick rock, it's a draw.
-# If I pick scissors and they pick paper, I win. If they pick rock, I lose. If they pick scissors, it's a draw.
-# If I pick paper and they pick rock, I win. If they pick scissors, I lose. If they pick paper, it's a draw.
-# Once the game has started, the computer will have a choice in mind, then I will be presented with the 3 options.
-# I make my choice and it is compared to the computer's choice.
-# Check earlier conditions
-# No matter the outcome the computer will select a new random choice.
-# Score will be tallied
 import random
 
 print("Welcome to Rock, Papers, Scissors!")
